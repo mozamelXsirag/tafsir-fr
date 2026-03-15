@@ -59,8 +59,6 @@ class MdkPlayer extends HTMLElement {
 
                     background: var(--mdk-bg-gradient);
                     
-                    backdrop-filter: blur(12px) saturate(150%);
-                    -webkit-backdrop-filter: blur(12px) saturate(150%);
                     
                     border: 1px solid rgba(255, 255, 255, 0.1);
                     border-radius: 16px;
@@ -72,7 +70,6 @@ class MdkPlayer extends HTMLElement {
                     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
                     width: 100%;
                     box-sizing: border-box;
-                    direction: rtl;
                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                     transition: box-shadow 0.3s ease, background 0.3s ease;
                 }
