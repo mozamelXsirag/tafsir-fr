@@ -245,7 +245,7 @@ class MdkPlayer extends HTMLElement {
                     <div class="mdk-player-header">
                         <div class="mdk-player-title">
                             <span class="mdk-player-title-text">${audioTitle}</span>
-                            <span class="mdk-player-badge">صوت</span>
+                           
                         </div>
                         <div class="mdk-player-time">
                             <span class="mdk-current-time">00:00</span> / <span class="mdk-total-time">00:00</span>
