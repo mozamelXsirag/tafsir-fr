@@ -235,7 +235,7 @@ class MdkPlayer extends HTMLElement {
                 }
             </style>
 
-            <div class="mdk-player-container" dir="rtl">
+            <div class="mdk-player-container">
                 <button class="mdk-player-play-btn mdk-btn-action" title="تشغيل / إيقاف" type="button">
                     <svg class="mdk-play-icon mdk-player-icon-svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
                     <svg class="mdk-pause-icon" style="display: none;" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
